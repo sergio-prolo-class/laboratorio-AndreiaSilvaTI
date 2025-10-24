@@ -1,0 +1,25 @@
+/*Tarefa: Escreva um programa que lẽ do teclado um inteiro positivo n e escreve na tela o triângulo de Floyd com n linhas
+*/
+
+package Lista6;
+
+import java.until.Scanner;
+
+public class Floyd
+    public static  void  main (String[]args) {
+        //Variáveis
+        Scanner sc = new Scanner(Sistem.in);
+         int num.linha  
+
+
+        //Inicio
+        System.out.print(linha);
+        linha1 = num.linha + n
+
+        swicth (numero)
+            case 'Linha1' -> System.out.print(num.linha + n)
+
+            if(num.linha = 0 ){
+                System.out.println(0)
+            } else {}
+    }
